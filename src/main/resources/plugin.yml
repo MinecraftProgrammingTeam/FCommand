@@ -1,0 +1,7 @@
+name: FCommand
+version: '${project.version}'
+main: xhuihui.mpt.FCommand
+api-version: 1.18
+commands:
+  FCreload:
+    description: /FCreload  重载config文件

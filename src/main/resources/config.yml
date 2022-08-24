@@ -1,0 +1,9 @@
+# commands - 需要执行的命令（玩家按下切换副手的按键的时候会由上到下一起执行，仅支持%player%变量
+commands:
+  - spawnpoint
+  - kill %player%
+
+# mode - 模式。可选：player（玩家）、console（控制台）、op（op）
+# 如果是选OP的话，原理就是给这个玩家op之后在一瞬间执行完指令再给他卸掉op
+# 请腐竹自行斟酌
+mode: console
