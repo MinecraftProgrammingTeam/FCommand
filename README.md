@@ -12,3 +12,4 @@
 2. 禁止将本插件原封不动（包括但不限于改提示文字、改作者名字、改配置名字）就拿去售卖
 3. 转载插件注明原作者及此仓库地址即可，并且需要在B站私信通知我。
 
+Gitee链接：[Gitee](https://gitee.com/minecraft-programming-team/fcommand "Gitee")
